@@ -1,0 +1,22 @@
+{
+  "name": "atividade3ppi",
+  "version": "1.0.0",
+  "description": "Porcessando formularios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrodev2000/Atividade3ppi.git"
+  },
+  "author": "Pedro Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrodev2000/Atividade3ppi/issues"
+  },
+  "homepage": "https://github.com/pedrodev2000/Atividade3ppi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
